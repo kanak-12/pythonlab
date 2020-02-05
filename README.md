@@ -1,6 +1,6 @@
 # pythonlab
 ```
-name-kanak srivastava
+name-miss kanak srivastava
 program-btech cs
 section-N
 roll no-28
